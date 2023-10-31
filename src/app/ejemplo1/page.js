@@ -4,7 +4,7 @@ export default function Ejemplo1() {
   return (
     <div className={styles.appBody}>
       <header className={`${styles.container} ${styles.header}`}>
-        <h1>Mi Sitio Web</h1>
+        <h1>Mi Sitio Web OoCss</h1>
       </header>
 
       <nav className={styles.marginTop}>

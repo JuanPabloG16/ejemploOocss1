@@ -4,7 +4,7 @@ export default function EjemploCss() {
   return (
     <div className={styles.appBody}>
       <header className={styles.header}>
-        <h1>Mi Sitio Web</h1>
+        <h1>Mi Sitio Web Css</h1>
       </header>
 
       <nav className={styles.nav}>
