@@ -1,0 +1,42 @@
+.appBody {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 60px;
+    text-align: center;
+    background: #333;
+    color: white;
+}
+
+.marginTop {
+    margin: 20px 0;
+}
+
+.listHorizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.link {
+    display: block;
+    color: rgb(240, 16, 16);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.link:hover {
+    background-color: #111;
+}
+
+.margin {
+    margin: 20px;
+}

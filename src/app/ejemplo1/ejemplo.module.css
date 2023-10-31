@@ -1,0 +1,50 @@
+.appBody {
+  font-family: Arial, sans-serif;
+}
+  
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #333;
+    color: white;
+  }
+  
+  .nav {
+    margin: 20px 0;
+  }
+  
+  .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .menu li {
+    float: left;
+  }
+  
+  .menu li a {
+    display: block;
+    color: rgb(240, 16, 16);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .menu li a:hover {
+    background-color: #111;
+  }
+  
+  .main {
+    margin: 20px;
+  }
+  
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #333;
+    color: rgb(240, 9, 9);
+  }
+  
