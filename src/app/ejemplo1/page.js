@@ -1,4 +1,4 @@
-import styles from './ejemplo.module.css';
+import styles from './ejemplo1.module.css';
 
 export default function Ejemplo1() {
   return (
@@ -27,3 +27,4 @@ export default function Ejemplo1() {
     </div>
   )
 }
+

@@ -1,42 +1,50 @@
 .appBody {
     font-family: Arial, sans-serif;
 }
-
-.container {
+  
+  .header {
     padding: 60px;
     text-align: center;
     background: #333;
     color: white;
-}
-
-.marginTop {
+  }
+  
+  .nav {
     margin: 20px 0;
-}
-
-.listHorizontal {
+  }
+  
+  .menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
-
-.floatLeft {
+  }
+  
+  .menu li {
     float: left;
-}
-
-.link {
+  }
+  
+  .menu li a {
     display: block;
-    color: rgb(240, 16, 16);
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-.link:hover {
+  }
+  
+  .menu li a:hover {
     background-color: #111;
-}
-
-.margin {
+  }
+  
+  .main {
     margin: 20px;
-}
+  }
+  
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #333;
+    color: white;
+  }
+  
